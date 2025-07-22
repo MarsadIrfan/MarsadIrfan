@@ -44,7 +44,8 @@ Though I’m early in my open-source journey, I aim to build **high-quality**, *
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF8000?style=flat-square&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-00B14F?style=flat-square&logo=lightgbm&logoColor=white)
-![CatBoost](https://img.shields.io/badge/-CatBoost-2E5087?style=flat-square&logo=catboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarsadIrfan.MarsadIrfan)
