@@ -50,7 +50,4 @@ Though I’m early in my open-source journey, I aim to build **high-quality**, *
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarsadIrfan.MarsadIrfan)
 
 ---
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MarsadIrfan/MarsadIrfan/output/github-contribution-grid-snake.svg)
-
-
 🔗 Open to connect, collaborate, or contribute to meaningful AI & systems projects.
