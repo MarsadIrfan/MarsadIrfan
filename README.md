@@ -39,23 +39,18 @@ Though I’m early in my open-source journey, I aim to build **high-quality**, *
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF8000?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-00B14F?style=flat-square&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-2E5087?style=flat-square&logo=catboost&logoColor=white)
 
 ---
-
-## 🧠 Quote I Live By
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
-> — Harold Abelson
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarsadIrfan.MarsadIrfan)
 
 ---
+![GitHub Contribution Snake](https://raw.githubusercontent.com/MarsadIrfan/MarsadIrfan/output/github-contribution-grid-snake.svg)
 
-<!-- Future section: Unhide once projects are ready -->
-<!--
-## 📌 Featured Projects
-
-Coming soon: intelligent developer tools, AI-powered utilities, and minimalistic CLI tools.
--->
-
----
 
 🔗 Open to connect, collaborate, or contribute to meaningful AI & systems projects.
