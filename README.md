@@ -1,22 +1,22 @@
-# 👋 Hi there, I'm Marsad Irfan
+#  Hi there, I'm Marsad Irfan
 
-🎓 *Computer Scientist* | 🤖 *AI Enthusiast* | ⚙️ *Professional & Academic Explorer*
+ *AI Enthusiast* | *Professional & Academic Explorer*
 
 ---
 
 I'm a computer scientist with a deep interest in **artificial intelligence**, **software systems**, and **elegant problem-solving**. I enjoy understanding how things work under the hood, and I believe that the future lies in building tools that are both intelligent and efficient.
 
-### 🧠 Areas of Interest:
-- 🐍 **Python**, 💻 **C / C++**, 🌐 **JavaScript**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- ⚙️ **System Design, Algorithms, and Clean Code**
-- 📚 **Open-Ended Learning and Research-Oriented Thinking**
+###  Areas of Interest:
+-  **Python**,  **C / C++**, **JavaScript**
+-  **Artificial Intelligence & Machine Learning**
+-  **System Design, Algorithms, and Clean Code**
+-  **Open-Ended Learning and Research-Oriented Thinking**
 
 Though I’m early in my open-source journey, I aim to build **high-quality**, **well-documented**, and **purpose-driven** tools — especially in the AI and systems domains.
 
 ---
 
-## 🚀 My Current Goals
+##  My Current Goals
 
 - Build open-source tools that blend AI with real-world utility
 - Explore systems programming and efficient architectures
@@ -24,7 +24,7 @@ Though I’m early in my open-source journey, I aim to build **high-quality**, *
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![MarsadIrfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsadIrfan&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsadIrfan&layout=compact)
